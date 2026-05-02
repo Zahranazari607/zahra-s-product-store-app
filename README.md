@@ -114,6 +114,12 @@ All screenshots are located in: `src/Screenshots%20and%20screen%20recorder/`
 | ![Empty FA](./src/Screenshots%20and%20screen%20recorder/Far-Cart%20Page-Empty.jpg) | ![Error FA](./src/Screenshots%20and%20screen%20recorder/Far-Error.jpg) |
 
 ---
+## 🎥 Project Demo Video
+[![Watch the Zahra's Shop demo on YouTube](https://img.youtube.com/vi/jRPqLZsAKHc/0.jpg)](https://youtu.be/jRPqLZsAKHc)
+
+*Click the image above to watch the project demo on YouTube.*
+
+---
 
 ## 🛠️ Installation & Getting Started
 
@@ -139,4 +145,4 @@ npm run dev
 
 ---
 
-**Developed by Zahra with ❤️ as a React Final Project.**
+**Developed by Zahra Nazari with ❤️ as a React Final Project.**
